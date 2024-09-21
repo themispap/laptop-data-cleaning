@@ -1,6 +1,6 @@
 # Laptop Data Cleaning Project
 
-!()[bground.png]
+![](bground.png)
 
 ## Overview
 This project focuses on cleaning the "SmartPrix Laptop Unclean Dataset" obtained from Kaggle. The dataset includes various attributes of laptops such as price, specifications, and user ratings. The goal of this project is to demonstrate data cleaning techniques including handling missing values, duplicates, and outliers.
